@@ -1,0 +1,45 @@
+body {
+  font-family: "Raleway", sans-serif;
+  color: white;
+  background-color: #0074D9;
+}
+
+main {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 900px;
+}
+
+.affirmation-container {
+  box-sizing: border-box;
+  padding: 15px;
+  margin: 10px;
+  font-size: 24px;
+  border-radius: 5px;
+  background-color: white;
+  text-align: center;
+}
+.alertsPanel h2 {
+  padding: 5px;
+  background-color: red;
+  color: white;
+}
+
+section button, section a {
+  text-align: center;
+  color: white;
+  border: none;
+  font-size: 18px;
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+  padding: 10px 25px 10px 25px;
+  outline: none;
+  margin: 5px;
+}
+section p {
+
+}
+
+footer {
+
+}
